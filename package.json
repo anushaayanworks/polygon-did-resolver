@@ -1,11 +1,8 @@
 {
   "name": "@ayanworks/polygon-did-resolver",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": [
-    "/dist"
-  ],
   "scripts": {
     "prestart": "tsc",
     "format": "prettier --write \"src/**/*.ts\"",
